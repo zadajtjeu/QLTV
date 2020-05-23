@@ -1,0 +1,159 @@
+1
+1
+S1
+Co So Du Lieu
+Thong Ke
+1996
+Nguyen Van A
+Giao Trinh
+100
+45000
+y
+S2
+Nhap Mon Cong Nghe Phan Mem
+Giao Duc
+2001
+Ha Manh Dao
+Giao Trinh
+50
+50000
+y
+S3
+Phan Tich Thiet Ke He Thong
+Giao Duc
+2003
+Hoang Van B
+Giao Trinh
+40
+30000
+y
+S4
+Tin Hoc Co So
+Thong Ke
+2009
+Luu Gia C
+Giao Trinh
+100
+40000
+y
+S5
+Tri Tue Nhan Tao
+Giao Duc
+2000
+Pham An D
+Giao Trinh
+50
+40000
+y
+S6
+Cong nghe phan mem
+Thong Ke
+2014
+Ha Thi F
+Giao Trinh
+80
+60000
+n
+6
+2
+1
+DG01
+2018001
+Nguyen Van A
+22/10/1999
+Ha Noi
+CNTT
+2018
+22/09/2018
+22/09/2022
+y
+DG02
+2018002
+Tran Ngoc Han
+03/04/1999
+Ha Nam
+KHMT
+2018
+22/09/2018
+22/09/2022
+y
+DG03
+2018003
+Tran Ngoc Linh
+12/06/2000
+Thai Nguyen
+OTO
+2018
+22/09/2018
+22/09/2022
+y
+DG04
+2018004
+Tran Minh Long
+22/10/2000
+Hai Phong
+KTPM
+2018
+22/09/2018
+22/09/2022
+y
+DG05
+2018005
+Le Nhat Minh
+28/01/2000
+Bac Ninh
+MMT
+2018
+22/09/2018
+22/09/2022
+y
+DG06
+2018006
+Le Hoai Thuong
+12/05/2000
+Nam Dinh
+Ke Toan
+2018
+22/09/2018
+22/09/2022
+y
+DG07
+2018007
+Nguyen Van Tam
+05/05/2000
+Thai Binh
+May
+2018
+22/09/2018
+22/09/2022
+y
+DG08
+2018008
+Phan Thi Thanh
+02/05/2000
+Nghe An
+Dien Tu
+2018
+22/09/2018
+22/09/2022
+y
+DG09
+2018009
+Le Ha Vinh
+11/11/2000
+Hung Yen
+KTPM
+2018
+22/09/2018
+22/09/2022
+y
+DG10
+2018010
+Ha Duy Lap
+03/02/2000
+Ha Noi
+CNTT
+2018
+22/09/2018
+22/09/2022
+n
